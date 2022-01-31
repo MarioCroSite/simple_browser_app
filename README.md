@@ -1,3 +1,5 @@
+# Simple Browser App
+
 A Flutter app that displays simple browser using riverpod state management
 
 # Goal of this example
